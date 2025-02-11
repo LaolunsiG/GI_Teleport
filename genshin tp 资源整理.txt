@@ -1,0 +1,4 @@
+1. https://github.com/chiqingsan/Teyvat_TP_Json
+2. https://github.com/kevinkong1999/TP_Material
+3. https://github.com/Xcating/Json_Integration.git
+4. https://github.com/Thafoxes/Json_Integration/tree/upstream/eng-translate
